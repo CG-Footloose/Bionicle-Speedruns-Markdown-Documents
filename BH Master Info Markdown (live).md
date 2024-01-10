@@ -22,13 +22,13 @@ The ones in the earlier sections of the game are stronger than both other standa
 
 #### Rahkshi
 
-The Rahkshi is the first boss type in the game. They are used in the first level of each zone/world. The fight consists of one to two uses of a golden constraction, and then a phase where the Rahkshi will attack the player a set amount of times and then let out a battle cry, which lowers their shields for the player to damage them. \
- \
- In the early game, the Rahkshi will place their staff over their shoulder and fire a single projectile at the player when attacking from a distance. Up close, they will do a spin attack that spawns a projectile at the end of the move. Towards mid-game, they then start doing a beam attack long range, and a staff slam close range. The long range attacks are longer, but require three uses for them to drop their shield, and the close range attacks are shorter, but require four uses to drop their shield.
+The Rahkshi is the first boss type in the game. They are used in the first level of each zone/world. The fight consists of one to two uses of a golden constraction, and then a phase where the Rahkshi will attack the player a set amount of times and then let out a battle cry, which lowers their shields for the player to damage them.
+
+In the early game, the Rahkshi will place their staff over their shoulder and fire a single projectile at the player when attacking from a distance. Up close, they will do a spin attack that spawns a projectile at the end of the move. Towards mid-game, they then start doing a beam attack long range, and a staff slam close range. The long range attacks are longer, but require three uses for them to drop their shield, and the close range attacks are shorter, but require four uses to drop their shield.
 
 #### Dark Hunters
 
-The Dark Hunters are the last hurdle in the way of the player reaching the Piraka of each zone/world. As a result, they are titans in comparison to the other enemy types. They appear in this order during Any%: Roodaka, Nidhiki, Axxon, Krekka, Brutaka, Sidorak. \
+The Dark Hunters are the last hurdle in the way of the player reaching the Piraka of each zone/world. As a result, they are titans in comparison to the other enemy types. They appear in this order during Any%: Roodaka, Nidhiki, Axxon, Krekka, Brutaka, Sidorak.
 
 ##### Roodaka
 
